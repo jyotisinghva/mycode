@@ -1,0 +1,44 @@
+read
+vlan 5
+  name VOICE
+vlan 10
+  name DATA
+vlan 15
+  name EVENTS
+vlan 20
+  name MONITOR
+vlan 25
+  name DEV
+vlan 30
+  name DB
+
+
+readlines
+['vlan 5\n', '  name VOICE\n', 'vlan 10\n', '  name DATA\n', 'vlan 15\n', '  name EVENTS\n', 'vlan 20\n', '  name MONITOR\n', 'vlan 25\n', '  name DEV\n', 'vlan 30\n', '  name DB\n', '\n']
+readlidt
+vlan 5
+
+  name VOICE
+
+vlan 10
+
+  name DATA
+
+vlan 15
+
+  name EVENTS
+
+vlan 20
+
+  name MONITOR
+
+vlan 25
+
+  name DEV
+
+vlan 30
+
+  name DB
+
+
+
